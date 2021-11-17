@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coderForLife6
+- 👋 Hi, I’m @bharadwaj
 - 👀 I’m interested in coding with Javascript,python.
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
